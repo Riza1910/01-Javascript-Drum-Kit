@@ -5,7 +5,7 @@ This is the first project of Javascript30 challenge.
 This JavaScript code sets up a drum kit where pressing certain keys triggers corresponding sounds. It also provides visual feedback by adding a CSS class to visually indicate which key is being played and removing it when the key is no longer pressed. The code leverages event listeners, DOM manipulation, and CSS transitions to achieve this interactive drum.
 
 
-## Concepts utilized in making this project -##
+## Concepts utilized in making this project -
 
 1) Event Listeners:
 In JavaScript, event listeners are a fundamental concept used to handle interactions with a webpage.
