@@ -8,6 +8,7 @@ This JavaScript code sets up a drum kit where pressing certain keys triggers cor
 ## Concepts utilized in making this project -
 
 1) Event Listeners:
+   
 In JavaScript, event listeners are a fundamental concept used to handle interactions with a webpage.
 They allow you to specify a function to be executed when a certain event occurs on a DOM element.
 In this code, window.addEventListener('keydown', playSound) attaches an event listener to the window object, specifically listening for the 'keydown' event.
