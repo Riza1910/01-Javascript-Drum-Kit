@@ -1,4 +1,4 @@
-## Javascript Drum Kit ##
+# Javascript Drum Kit 
 
 This is the first project of Javascript30 challenge. 
 
